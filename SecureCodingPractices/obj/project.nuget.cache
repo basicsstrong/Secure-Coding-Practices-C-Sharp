@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+qrIADDG87kloLXv+AelovRDjmvm+lMzi3Z9WcrUi9kOt6AI/4dRj9aMt3pP2McqlBTz1SK6UJJvHcbxuJ/dw==",
+  "success": true,
+  "projectFilePath": "/Users/meenalbhansali/Dropbox/Rooms/Course Room/Secure Coding/SecureCodingPractices/SecureCodingPractices.csproj",
+  "expectedPackageFiles": [
+    "/Users/meenalbhansali/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/meenalbhansali/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/meenalbhansali/.nuget/packages/nlog/5.2.0/nlog.5.2.0.nupkg.sha512",
+    "/Users/meenalbhansali/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
